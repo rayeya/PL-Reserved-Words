@@ -1,0 +1,16 @@
+dependency
+executable
+project
+get
+set
+if
+elif
+else
+endif
+foreach
+endforeach
+break
+continue
+and
+or
+not
